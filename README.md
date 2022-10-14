@@ -19,3 +19,11 @@
 
 * []()
 * []()
+
+# Inglês
+
+* [Duolingo](https://www.duolingo.com/learn)
+* []()
+
+# Programação
+* [Mimo](https://dev.getmimo.com/web/overview)
