@@ -7,7 +7,7 @@
 
 # Banco de dados MySql
 
-* [CRUD](https://www.youtube.com/watch?v=13FQY5jl7iQ&t=2s)
+* [CRUD](https://www.hashtagtreinamentos.com/operacoes-crud-no-sql)
 * []()
 
 # Python
