@@ -7,8 +7,8 @@
 
 # Banco de dados MySql
 
-* [CRUD](https://www.hashtagtreinamentos.com/operacoes-crud-no-sql)
-* []()
+* [CRUD hastag](https://www.hashtagtreinamentos.com/operacoes-crud-no-sql)
+* [CRUD Angular + Spring - Introdução](https://www.youtube.com/watch?v=DQ0pMGJWCTE&feature=youtu.be)
 
 # Python
 
